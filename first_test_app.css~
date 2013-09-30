@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+body {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+li, tr {
+	cursor: pointer;
+}
+.selected {
+	font-weight:bold;
+}
